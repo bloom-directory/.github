@@ -14,7 +14,6 @@ Among other things, we are building:
 
 * [Bloom](https://github.com/bloom-directory/bloom): an agentic Ethereum wallet exposed as a virtual filesystem, with chain views, wallet action staging, and reviewable transaction plans.
 * [Bloom Docs](https://github.com/bloom-directory/docs): user-facing documentation, quickstarts, and the canonical setup path for agents using Bloom.
-* [embednfs](https://github.com/bloom-directory/embednfs): an embeddable Rust NFSv4.1 server for exposing application state through ordinary filesystem clients.
 
 We care about interfaces that are legible to both people and agents: files over opaque dashboards, deterministic artifacts over vibes, and explicit review boundaries over silent automation.
 
